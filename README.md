@@ -24,7 +24,7 @@ A Discord bot that lets you broadcast instant Pushover notifications to a list o
 
 ```bash
 git clone https://github.com/XyleExile/ALERT-IT
-cd your-repo
+cd ALERT-IT
 ```
 
 ### 3. Install dependencies
